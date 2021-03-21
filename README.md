@@ -1,4 +1,4 @@
-# modeling-and-simulation
+# Modeling-and-Simulation
 ## Robot:
 In this project we consider a very simplified model, in which the robot consists of two arms that move in one plane. Swivel joints allow the rotation of the arms. The arms have a fixed length. At the end of the second arm, an object hangs vertically downwards, attached to a freely suspended rope.
 ## TSP:
